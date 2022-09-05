@@ -1,4 +1,4 @@
-## Hola soy **Ana Maria**
+## Hola, soy **Ana Maria**
 
 
 
@@ -6,5 +6,5 @@
 
 
 
-#### Soy *médico* y magíster en epidemiología
+##### Soy *médico* y magíster en epidemiología
 
