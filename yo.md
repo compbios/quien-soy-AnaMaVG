@@ -4,7 +4,7 @@
 
 
 
-##### Soy *médico* y magíster en epidemiología de la Universidad Industrial de Santander.
+##### Soy *médico* y magíster en epidemiología de la [Universidad Industrial de Santander](https://www.uis.edu.co/webUIS/es/academia/facultades/salud/index.html).
 
 Actualmente, me desempeño como coordinadora de innovación, investigación y desarrollo de la *Cuenta de Alto Costo*. 
 
